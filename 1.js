@@ -4,6 +4,7 @@
 // console.log(typeof twoSum)
 // // let a = 2;//全局作用域
 // 时间复杂度,n*n=O(n^2)
+// 
    
 //   var twoSum = function(nums,target){
 //    let arr=[];//坐标放进去
